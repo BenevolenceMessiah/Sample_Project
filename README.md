@@ -6,7 +6,10 @@
 1. Download and install[ Git](https://git-scm.com/downloads) for your corresponding system (When installing, make sure that the option to add Git Bash to the Shell Menu is ticked - it should be by default as I recall).
 2. Make an account on [GitHub](https://github.com/).
 3. Right click, select 'open Git Bash here' where you'd like to install/download the project.
-4. Paste: `git clone https://github.com/BenevolenceMessiah/Sample_Project.git` in the Git Bash console.
+4. Paste:
+
+       git clone https://github.com/BenevolenceMessiah/Sample_Project.git
+   in the Git Bash console.
 
 
 <h4>Usage:</h4>
