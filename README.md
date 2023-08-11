@@ -32,7 +32,7 @@ The only limit is your own imagination!
 
    
        git push
-   This will push the changes to GitHub.
+   This will push the changes to your forked repo on GitHub. you can also run <code>git status</code> in between any of these commands to make sure things are working correctly. I definitely suggest running that command after running <code>git add .</code> to make sure the changes were detected.
 
 
 5. Once you have some changes you like, send them to me in a pull request wherein they will be merged in my main branch.
