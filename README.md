@@ -19,9 +19,10 @@ The only limit is your own imagination!
 
 
 1. Create a fork of this branch for yourself.
-2. Work on the project, save the project in FL Studio as you normally would. Optionally, for ease of access, you might consider exporting .wav, .flac. and/or .mp3 to the "WIP" folder. For maximum compatibility, if you are using 3rd party plugins or VSTs, it is advisable to export stems to the "Stems" folder - both wet and also dry if you'd rather other people process them or if they're to be processed alternatively.
-3. It may be a good idea to prune (delete) some of your backup files from the "Backup" folder if you have a lot of them (if you have FL Studio set to save every 5 minutes for example).
-4. To push your updates to your fork, run the `Push_Changes_to_Repo_Windows.bat` or `Push_Changes_to_Repo_Mac.sh` script. Alternatively, you can open the Git Bash in the project directory and run:
+2. Work on the project, save the project in FL Studio as you normally would (you may consider renaming it: Sample Project <your version here> or clicking 'Save as New Version' from the file menu. Doing this will prevent overwriting the .flp file when updating from a shared main branch in a collaboration situation).
+3. Optionally, for ease of access, you might consider exporting .wav, .flac. and/or .mp3 to the "WIP" folder. For maximum compatibility, if you are using 3rd party plugins or VSTs, it is advisable to export stems to the "Stems" folder - both wet and also dry if you'd rather other people process them or if they're to be processed alternatively.
+4. It may be a good idea to prune (delete) some of your backup files from the "Backup" folder if you have a lot of them (if you have FL Studio set to save every 5 minutes for example).
+5. To push your updates to your fork, run the `Push_Changes_to_Repo_Windows.bat` or `Push_Changes_to_Repo_Mac.sh` script. Alternatively, you can open the Git Bash in the project directory and run:
 
 
        git add .
@@ -40,7 +41,7 @@ The only limit is your own imagination!
    This will push the changes to your forked repo on GitHub. you can also run <code>git status</code> in between any of these commands to make sure things are working correctly. I definitely suggest running that command after running <code>git add .</code> to make sure the changes were detected.
 
 
-5. Once you have some changes you like, send them to me in a pull request wherein they will be merged in my main branch.
+6. Once you have some changes you like, send them to me in a pull request wherein they will be merged in my main branch.
 
 <h4>Updating:</h4>
 
