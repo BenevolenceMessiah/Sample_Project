@@ -6,5 +6,7 @@ git status
 git branch -M main
 git status
 git push
+git lfs push origin main --all
+git status
 
 PAUSE
